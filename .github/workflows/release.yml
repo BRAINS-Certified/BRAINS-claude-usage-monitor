@@ -9,7 +9,7 @@ name: Release
 #
 # Signing uses the GitHub OIDC-issued certificate, so no long-lived secrets
 # are required. Consumers can verify with:
-#   gh attestation verify <vsix> --repo shard-BRAINS/BRAINS-claude-usage-monitor
+#   gh attestation verify <vsix> --repo BRAINS-Certified/BRAINS-claude-usage-monitor
 
 on:
   push:
