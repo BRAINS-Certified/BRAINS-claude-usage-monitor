@@ -131,7 +131,7 @@ the artifact is built, scanned, and shipped.
   an SLSA build provenance attestation (Sigstore-signed via GitHub OIDC, no
   long-lived secrets), produces a `SHA256SUMS.txt`, and creates the GitHub
   Release. Consumers can verify with
-  `gh attestation verify <vsix> --repo shard-BRAINS/BRAINS-claude-usage-monitor`.
+  `gh attestation verify <vsix> --repo BRAINS-Certified/BRAINS-claude-usage-monitor`.
 - Added `.github/CODEOWNERS` so pull requests trigger code-owner review.
 - Added opt-in accessibility workflow (axe-core + Pa11y) for the webview
   surface; enable with the repo variable `HAS_WEB_UI=true`.

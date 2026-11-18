@@ -19,13 +19,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/shard-BRAINS/BRAINS-claude-usage-monitor.git"
+    "url": "https://github.com/BRAINS-Certified/BRAINS-claude-usage-monitor.git"
   },
   "bugs": {
-    "url": "https://github.com/shard-BRAINS/BRAINS-claude-usage-monitor/issues",
+    "url": "https://github.com/BRAINS-Certified/BRAINS-claude-usage-monitor/issues",
     "email": "security@brainscertified.com"
   },
-  "homepage": "https://github.com/shard-BRAINS/BRAINS-claude-usage-monitor#readme",
+  "homepage": "https://github.com/BRAINS-Certified/BRAINS-claude-usage-monitor#readme",
   "qna": "marketplace",
   "galleryBanner": {
     "color": "#1A1A1A",

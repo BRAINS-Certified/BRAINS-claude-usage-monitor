@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="BRAINS" src="https://raw.githubusercontent.com/shard-BRAINS/.github/main/profile/brand-mark-light-bg.png" width="220">
+<img alt="BRAINS" src="https://raw.githubusercontent.com/BRAINS-Certified/.github/main/profile/brand-mark-light-bg.png" width="220">
 
 <!-- readability: skip -->
 
@@ -13,8 +13,8 @@
 [![Licence](https://img.shields.io/badge/licence-MIT-0A0A0A?style=for-the-badge&labelColor=D99518)](LICENSE)
 [![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF&labelColor=0A0A0A)](https://discord.gg/BEmTXXscBr)
 [![Bluesky](https://img.shields.io/badge/Bluesky-%40brainscertified.com-D99518?style=for-the-badge&logo=bluesky&logoColor=FFFFFF&labelColor=0A0A0A)](https://bsky.app/profile/brainscertified.com)
-[![Incubator](https://img.shields.io/badge/BRAINS-Incubator-4DA8FF?style=for-the-badge&labelColor=0A0A0A)](https://github.com/shard-BRAINS)
-[![BRAINS Certified Gold](https://img.shields.io/badge/BRAINS%20Certified-Gold-D99518?style=for-the-badge&labelColor=0A0A0A)](https://github.com/shard-BRAINS/BRAINS-template-repo/blob/main/CERTIFIED.md)
+[![Incubator](https://img.shields.io/badge/BRAINS-Incubator-4DA8FF?style=for-the-badge&labelColor=0A0A0A)](https://github.com/BRAINS-Certified)
+[![BRAINS Certified Gold](https://img.shields.io/badge/BRAINS%20Certified-Gold-D99518?style=for-the-badge&labelColor=0A0A0A)](https://github.com/BRAINS-Certified/BRAINS-template-repo/blob/main/CERTIFIED.md)
 
 <br />
 
@@ -28,10 +28,10 @@ A VSCode extension that reads your local Claude Code transcripts and shows your 
 
 > **Reliable, affirming, inclusive.**
 
-**An Incubator project from [BRAINS](https://github.com/shard-BRAINS) — built by neurodivergent minds, for neurodivergent people.**
+**An Incubator project from [BRAINS](https://github.com/BRAINS-Certified) — built by neurodivergent minds, for neurodivergent people.**
 
 <p align="center">
-  <img alt="BRAINS Claude Usage Monitor — VSCode window showing the activity-bar sidebar, the rich hover card, and the live status-bar fill bar at the bottom" src="https://raw.githubusercontent.com/shard-BRAINS/BRAINS-claude-usage-monitor/main/assets/screenshot.png" width="520">
+  <img alt="BRAINS Claude Usage Monitor — VSCode window showing the activity-bar sidebar, the rich hover card, and the live status-bar fill bar at the bottom" src="https://raw.githubusercontent.com/BRAINS-Certified/BRAINS-claude-usage-monitor/main/assets/screenshot.png" width="520">
 </p>
 
 ---
@@ -54,7 +54,7 @@ A VSCode extension that reads your local Claude Code transcripts and shows your 
 
 ## Install
 
-**From the GitHub release:** download the latest `.vsix` from [Releases](https://github.com/shard-BRAINS/BRAINS-claude-usage-monitor/releases) and run:
+**From the GitHub release:** download the latest `.vsix` from [Releases](https://github.com/BRAINS-Certified/BRAINS-claude-usage-monitor/releases) and run:
 
 ```bash
 code --install-extension BRAINS-claude-usage-monitor-0.3.0.vsix
@@ -149,7 +149,7 @@ Vulnerabilities should be reported via GitHub Security Advisories on this repo, 
 This repository carries the **BRAINS Certified · Gold** mark — the BRAINS standard for neuro-affirming, well-governed open source.
 
 <p align="center">
-  <a href="https://github.com/shard-BRAINS/BRAINS-template-repo/blob/main/CERTIFIED.md"><img alt="BRAINS Certified — Gold Standard" src="https://raw.githubusercontent.com/shard-BRAINS/BRAINS-claude-usage-monitor/main/assets/badges/brains-certified-gold.png" width="420"></a>
+  <a href="https://github.com/BRAINS-Certified/BRAINS-template-repo/blob/main/CERTIFIED.md"><img alt="BRAINS Certified — Gold Standard" src="https://raw.githubusercontent.com/BRAINS-Certified/BRAINS-claude-usage-monitor/main/assets/badges/brains-certified-gold.png" width="420"></a>
 </p>
 
 Gold means two things hold on `main`:
@@ -157,18 +157,18 @@ Gold means two things hold on `main`:
 - **Every standard check passes** — OpenSSF Scorecard, CodeQL, Trivy, Gitleaks, Vale (BRAINS prose rules), readability, and Markdownlint.
 - **The ND-affirming governance files ship** — Code of Conduct, Security policy, and Contributing guide.
 
-See the full list of certified repositories in the [BRAINS registry](https://github.com/shard-BRAINS/BRAINS-template-repo/blob/main/CERTIFIED.md).
+See the full list of certified repositories in the [BRAINS registry](https://github.com/BRAINS-Certified/BRAINS-template-repo/blob/main/CERTIFIED.md).
 
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) and the [Code of Conduct](CODE_OF_CONDUCT.md). The repo runs the BRAINS standard floor on every pull request — OpenSSF Scorecard, CodeQL, Trivy, Gitleaks, Dependabot, Vale (BRAINS prose rules), and a readability gate.
 
-[![CI](https://github.com/shard-BRAINS/BRAINS-claude-usage-monitor/actions/workflows/ci.yml/badge.svg)](https://github.com/shard-BRAINS/BRAINS-claude-usage-monitor/actions/workflows/ci.yml)
-[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/shard-BRAINS/BRAINS-claude-usage-monitor/badge)](https://scorecard.dev/viewer/?uri=github.com/shard-BRAINS/BRAINS-claude-usage-monitor)
+[![CI](https://github.com/BRAINS-Certified/BRAINS-claude-usage-monitor/actions/workflows/ci.yml/badge.svg)](https://github.com/BRAINS-Certified/BRAINS-claude-usage-monitor/actions/workflows/ci.yml)
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/BRAINS-Certified/BRAINS-claude-usage-monitor/badge)](https://scorecard.dev/viewer/?uri=github.com/BRAINS-Certified/BRAINS-claude-usage-monitor)
 
 ## About this project
 
-BRAINS Claude Usage Monitor is one of the tools BRAINS uses internally to keep our own Claude Code work observable and accountable. It was the first end-to-end build run through the [BRAINS Build Platform](https://github.com/shard-BRAINS/BRAINS-build-platform), so the seventeen work packages, decisions log, and persona dispatch trail that produced it are part of the platform's dogfood history.
+BRAINS Claude Usage Monitor is one of the tools BRAINS uses internally to keep our own Claude Code work observable and accountable. It was the first end-to-end build run through the [BRAINS Build Platform](https://github.com/BRAINS-Certified/BRAINS-build-platform), so the seventeen work packages, decisions log, and persona dispatch trail that produced it are part of the platform's dogfood history.
 
 BRAINS is the global benchmark for neuro-affirming AI. We publish tools, research, and certifications grounded in a single design principle — that AI systems should be usable across the full range of human cognition, including the engineers who build them. Issues, suggestions, and pull requests are welcome.
 
